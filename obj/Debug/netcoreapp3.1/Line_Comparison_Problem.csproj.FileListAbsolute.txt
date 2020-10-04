@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\c#\Line_Comparison_Problem\Line_Comparison_Problem\bin\Debug\netcoreapp3.1\Line_Comparison_Problem.exe
+C:\Users\USER\Desktop\c#\Line_Comparison_Problem\Line_Comparison_Problem\bin\Debug\netcoreapp3.1\Line_Comparison_Problem.deps.json
+C:\Users\USER\Desktop\c#\Line_Comparison_Problem\Line_Comparison_Problem\bin\Debug\netcoreapp3.1\Line_Comparison_Problem.runtimeconfig.json
+C:\Users\USER\Desktop\c#\Line_Comparison_Problem\Line_Comparison_Problem\bin\Debug\netcoreapp3.1\Line_Comparison_Problem.runtimeconfig.dev.json
+C:\Users\USER\Desktop\c#\Line_Comparison_Problem\Line_Comparison_Problem\bin\Debug\netcoreapp3.1\Line_Comparison_Problem.dll
+C:\Users\USER\Desktop\c#\Line_Comparison_Problem\Line_Comparison_Problem\bin\Debug\netcoreapp3.1\Line_Comparison_Problem.pdb
+C:\Users\USER\Desktop\c#\Line_Comparison_Problem\Line_Comparison_Problem\obj\Debug\netcoreapp3.1\Line_Comparison_Problem.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\c#\Line_Comparison_Problem\Line_Comparison_Problem\obj\Debug\netcoreapp3.1\Line_Comparison_Problem.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\c#\Line_Comparison_Problem\Line_Comparison_Problem\obj\Debug\netcoreapp3.1\Line_Comparison_Problem.AssemblyInfo.cs
+C:\Users\USER\Desktop\c#\Line_Comparison_Problem\Line_Comparison_Problem\obj\Debug\netcoreapp3.1\Line_Comparison_Problem.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c#\Line_Comparison_Problem\Line_Comparison_Problem\obj\Debug\netcoreapp3.1\Line_Comparison_Problem.dll
+C:\Users\USER\Desktop\c#\Line_Comparison_Problem\Line_Comparison_Problem\obj\Debug\netcoreapp3.1\Line_Comparison_Problem.pdb
+C:\Users\USER\Desktop\c#\Line_Comparison_Problem\Line_Comparison_Problem\obj\Debug\netcoreapp3.1\Line_Comparison_Problem.genruntimeconfig.cache
