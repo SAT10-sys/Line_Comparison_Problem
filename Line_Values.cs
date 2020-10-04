@@ -23,5 +23,17 @@ namespace Line_Comparison_Problem
             double lineLength = Math.Sqrt(Math.Pow(xcoOrdinate2 - xcoOrdinate1, 2) + Math.Pow(ycoOrdinate2 - ycoOrdinate1, 2));
             return lineLength;
         }
+        public double LineLength(Line_Values lineValues)
+        {
+            return Math.Sqrt(Math.Pow(lineValues.xcoOrdinate2 - lineValues.xcoOrdinate1, 2) + Math.Pow(lineValues.ycoOrdinate2 - lineValues.ycoOrdinate1, 2));
+        }
+        public int CompareLength(Line_Values lineValue1, Line_Values lineValue2)
+        {
+            if (LineLength(lineValue1) > LineLength(lineValue2))
+                return 1;
+            else if (LineLength(lineValue1) < LineLength(lineValue2))
+                return -1;
+            else return 0;
+        }
     }
 }
