@@ -33,7 +33,8 @@ namespace Line_Comparison_Problem
                 return 1;
             else if (LineLength(lineValue1) < LineLength(lineValue2))
                 return -1;
-            else return 0;
+            else 
+                return 0;
         }
     }
 }

@@ -23,14 +23,15 @@ namespace Line_Comparison_Problem
             Line_Values lineValues2 = new Line_Values(abscissa12, ordinate12, abscissa22, ordinate22);
             lengthOfLine1 = lineValues1.LineLength(abscissa11, ordinate11, abscissa21, ordinate21);
             lengthOfLine2 = lineValues2.LineLength(abscissa12, ordinate12, abscissa22, ordinate22);
-            //Comparing length by in-built compare to function
-            int choice = Math.Sign(lengthOfLine1.CompareTo(lengthOfLine2));
-            if (choice == 1)
-                Console.WriteLine(" 1st line is longer ");
-            else if (choice == -1)
-                Console.WriteLine(" 2nd line is longer ");
-            else
+
+            //checking by Equals Method
+            bool checkOutputEquality = lengthOfLine1.Equals(lengthOfLine2);
+            if (checkOutputEquality)
                 Console.WriteLine(" Both the lines are of equal length ");
+            else if (lengthOfLine1 > lengthOfLine2)
+                Console.WriteLine(" The first line is longer ");
+            else
+                Console.WriteLine(" The second line is longer ");
         }
     }
 }
